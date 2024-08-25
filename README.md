@@ -5,11 +5,14 @@ Overview
 ineShopAutoBuyer is a Python-based bot designed to automate the purchasing process on the "Fine Wine and Good Spirits" website. By simply providing the product link, this bot efficiently handles the entire purchase process, ensuring you can secure limited-stock or high-demand products quickly and easily.
 
 Features
+
 Automated Product Purchase: Provide the product link, and the bot will handle the rest—navigating the site, adding the item to the cart, and completing the purchase.
 Speed and Precision: Optimized to execute the purchase process swiftly, helping you secure items before they go out of stock.
 Ease of Use: User-friendly design with minimal input required—just the product link.
 Customizable Settings: Adjust bot parameters to fit your specific purchasing needs.
+
 Installation
+
 1-Clone the Repository:
 git clone https://github.com/yourusername/WineShopAutoBuyer.git
 cd WineShopAutoBuyer
