@@ -36,10 +36,13 @@ Timeout Settings: Modify the timeout settings in config.py if you need to adjust
 Retry Logic: Customize the retry logic to handle cases where the site might be slow or the product goes out of stock temporarily.
 
 Contributing
+
 Contributions are welcome! Please submit a pull request or open an issue for any bugs or feature requests.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Disclaimer
+
 This bot is provided for educational purposes only. Use it responsibly and in accordance with the terms of service of the "Fine Wine and Good Spirits" website.
