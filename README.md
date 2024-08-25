@@ -1,6 +1,8 @@
 Wine Shop Auto Buyer
+
 Overview
-WineShopAutoBuyer is a Python-based bot designed to automate the purchasing process on the "Fine Wine and Good Spirits" website. By simply providing the product link, this bot efficiently handles the entire purchase process, ensuring you can secure limited-stock or high-demand products quickly and easily.
+
+ineShopAutoBuyer is a Python-based bot designed to automate the purchasing process on the "Fine Wine and Good Spirits" website. By simply providing the product link, this bot efficiently handles the entire purchase process, ensuring you can secure limited-stock or high-demand products quickly and easily.
 
 Features
 Automated Product Purchase: Provide the product link, and the bot will handle the rest—navigating the site, adding the item to the cart, and completing the purchase.
